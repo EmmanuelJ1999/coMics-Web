@@ -17,6 +17,8 @@
 
     @include('layouts.partials.nav')
 
-    @yield('content')    
+    @yield('content')  
+    
+    @include('layouts.partials.footer')
 </body>
 </html>
