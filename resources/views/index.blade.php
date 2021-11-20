@@ -31,7 +31,102 @@
                 </aside>
 
                 <main class="col-9">
-
+                    <div class="row">
+                            <div class="col-3 card mb-4 mx-4">
+                                <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                                <div class="card-body">
+                                    <a href="#">
+                                        <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                                    </a>
+                                    <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                                </div>
+                            </div>
+                        <br>
+                            <div class="col-3 card mb-4 mx-4">
+                                <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                                <div class="card-body">
+                                    <a href="#">
+                                        <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                                    </a>
+                                    <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                                </div>
+                            </div>
+                        <br>
+                            <div class="col-3 card mb-4 mx-4">
+                                <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                                <div class="card-body">
+                                    <a href="#">
+                                        <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                                    </a>
+                                    <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                                </div>
+                            </div>
+                        
+                   </div>
+                   <div class="row">
+                    <div class="col-3 card mb-4 mx-4">
+                        <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                        <div class="card-body">
+                            <a href="#">
+                                <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                            </a>
+                            <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                        </div>
+                    </div>
+                <br>
+                    <div class="col-3 card mb-4 mx-4">
+                        <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                        <div class="card-body">
+                            <a href="#">
+                                <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                            </a>
+                            <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                        </div>
+                    </div>
+                <br>
+                    <div class="col-3 card mb-4 mx-4">
+                        <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                        <div class="card-body">
+                            <a href="#">
+                                <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                            </a>
+                            <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                        </div>
+                    </div>
+                
+           </div>
+           <div class="row">
+            <div class="col-3 card mb-4 mx-4">
+                <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                <div class="card-body">
+                    <a href="#">
+                        <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                    </a>
+                    <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                </div>
+            </div>
+        <br>
+            <div class="col-3 card mb-4 mx-4">
+                <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                <div class="card-body">
+                    <a href="#">
+                        <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                    </a>
+                    <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                </div>
+            </div>
+        <br>
+            <div class="col-3 card mb-4 mx-4">
+                <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
+                <div class="card-body">
+                    <a href="#">
+                        <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
+                    </a>
+                    <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
+                </div>
+            </div>
+        
+   </div>
                 </main>
             </div>
         </div>
