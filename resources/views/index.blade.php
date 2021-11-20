@@ -10,7 +10,7 @@
                         <h5 class="card-title text-center text-secondary">Lo más visto esta semana</h5>
                         <div class="card-body">
                             <a href="#">
-                                <img src="../resources/images/Comic.png" class="card-img-top" alt="">
+                                <img src="{{asset('images/Comic.png')}}" class="card-img-top" alt="">
                             </a>
                             <p class="card-text text-secondary text-center">Action Comic Vol.1 #1</p>
                         </div>

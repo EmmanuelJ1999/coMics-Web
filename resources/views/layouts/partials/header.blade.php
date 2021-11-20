@@ -4,7 +4,7 @@
             
             <div class="flex-grow-1 bd-highlight">
                 <a href="{{route('home')}}" >
-                    <img src="../resources/images/libro-comico.png" alt="" width="32" height="32">
+                    <img src="{{asset('images/libro-comico.png')}}" alt="" width="32" height="32">
                 </a>
             </div>
 
